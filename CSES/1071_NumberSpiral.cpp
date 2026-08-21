@@ -3,7 +3,6 @@ using namespace std;
 
 #pragma region Macros
 #pragma GCC optimize("Ofast")
-#pragma GCC target("avx,avx2,fma")
 
 #define ios ios_base::sync_with_stdio(0), cin.tie(0), cout.tie(0);
 #pragma endregion
